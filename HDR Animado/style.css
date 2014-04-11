@@ -1,0 +1,19 @@
+body			{ background:#3B4D61 url("bg.jpg") repeat 0 0; }
+h1				{ font:bold 50px Tahoma, Helvetica, Arial, Sans-Serif; text-align:center; color:#8F8F8F; text-shadow:5px 5px 5px #000; }
+
+p				{ width:650px; margin:50px auto 7px; color:#9F9F9F; font:normal 12px/12px Tahoma, Helvetica, Arial, Sans-Serif; }
+#flashinfo		{ width:800px; text-align:center; }
+.flashinfo		{ color:#9F9F9F; text-decoration:none; font:bold 18px/18px Tahoma, Helvetica, Arial, Sans-Serif; }
+.flashinfo:hover{ color:#BFDEFF; }
+
+#beforeafter,
+#flashcontainer	{ width:650px; height:433px; margin:0 auto; border:3px solid black; box-shadow:0 0 10px 2px #000; -moz-box-shadow:0 0 10px 2px #000; -webkit-box-shadow:0 0 10px 2px #000; }
+#flashcontainer	{ margin:0 auto 120px; width:800px; height:530px; }
+#links			{ margin:0 auto; }
+#links a		{ text-decoration:none; color:#6F777F; font:bold 11px/20px Tahoma, Helvetica, Arial, Sans-Serif; }
+#links a:hover	{ color:#BFDEFF; }
+
+#logo			{ position:fixed; width:345px; height:90px; left:20px; bottom:20px; border:0; z-index:999; }
+
+#retweet		{ position:fixed; bottom:20px; right:30px; height:15px; padding:2px 12px; color:#fff; background:#95cd3c; text-decoration:none; border:2px solid #80b62a; font:bold 15px/13px Tahoma, Helvetica, Arial, Sans-Serif; text-align:center; -moz-border-radius:5px; -webkit-border-radius:5px; box-shadow: 2px 2px 5px #000; -moz-box-shadow: 2px 2px 5px #000; -webkit-box-shadow: 2px 2px 5px #000; }
+#retweet:hover	{ color:#80b62a; background:#fff; }
